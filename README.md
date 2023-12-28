@@ -9,15 +9,10 @@
 - 
 - 🤝 I’m looking for help with **UI and Music for my game!**
 
-- 👨‍💻 All of my projects are available at [Future Steam Page](Future Steam Page)
+- 👨‍💻 All of my projects are available at [Future Steam Page]
 - 
 - 💬 Ask me about **Drillfender, 3d modelling or anything else**
 
-- 📫 How to reach me **🙊**
-
-- 📄 Know about my experiences [balbla nobody cares about this](balbla nobody cares about this)
-
-- ⚡ Fun fact **Drillfender is inspired by Vampire survivors and Slime rancher**
 
 
 <h3 align="left">Languages and Tools:</h3>
