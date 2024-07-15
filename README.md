@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remmydev&label=Profile%20views&color=0e75b6&style=flat" alt="remmydev" /> </p>
 
-- 🔭 I’m currently working on the game **Drillfender**
+- 🔭 I’m currently working on the game **VOLT CARNAGE**
 
 - 🌱 I’m currently learning **C# and Java**
-- 
-- 🤝 I’m looking for help with **UI and Music for my game!**
 
 - 👨‍💻 All of my projects are available at [Future Steam Page]
-- 
-- 💬 Ask me about **Drillfender, 3d modelling or anything else**
+  
+- 💬 Ask me about anything :)
 
 
 
