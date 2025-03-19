@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the game **???**
 
-- 🌱 I’m currently learning **C# and Java**
+- 🌱 I’m currently learning **C#, Java, JS and HTML**
 
 - 👨‍💻 All of my projects are available at [Future Steam Page]
   
