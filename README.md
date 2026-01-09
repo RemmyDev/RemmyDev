@@ -1,7 +1,7 @@
 <h1 align="center">Hi!! , I'm Remmy</h1>
 <h3 align="center">A passionate game dev from Spain 🇪🇸</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=remmydev&label=Profile%20views&color=0e75b6&style=flat" alt="remmydev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=remmydev&label=Profile%20views&color=0e75b6&style=flat" alt="kepano" /> </p>
 
 - 🔭 I’m currently working on the game **"None, school work rn"**
 
