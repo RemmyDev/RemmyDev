@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Future Steam Page]
   
-- Check out my music! **[rekked.com](Link)**
+- Check out my music! **[Link](rekked.com)**
   
 - 💬 Ask me about anything :)
 
