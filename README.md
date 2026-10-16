@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remmydev&label=Profile%20views&color=0e75b6&style=flat" alt="kepano" /> </p>
 
-- 🔭 I’m currently working on the game **"None, school work rn"**
+- 🔭 I’m currently working on the game **"Tag"**
 
 - 🌱 I’m currently learning **C#, Java, JS and HTML**
 
 - 👨‍💻 All of my projects are available at [Future Steam Page]
+  
+- Check out my music! rekked.com
   
 - 💬 Ask me about anything :)
 
